@@ -1,5 +1,5 @@
 # Bike Sharing Demand Prediction
->  This analysis aims to give us an idea of using Multiple Linear Regression in a real business scenario. In this prediction analysis, we develop a basic understanding to evaluate the significance of parameters which impact demand.
+ This analysis aims to give us an idea of using Multiple Linear Regression in a real business scenario. In this prediction analysis, we develop a basic understanding to evaluate the significance of parameters which impact demand.
 
 
 ## Table of Contents
@@ -9,7 +9,7 @@
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
-- Problem Statement
+### Problem Statement
     A bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. In such an attempt, the company aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19. They have planned this to prepare themselves to cater to the people's needs once the situation gets better all around and stand out from other service providers and make huge profits.
   The company want to understand the factors affecting the demand for these shared bikes in the American market and wants to know:
 
@@ -32,9 +32,12 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- https://pandas.pydata.org/docs/
+- https://numpy.org/doc/stable/
+- https://seaborn.pydata.org/
+- https://matplotlib.org/
+- https://www.statsmodels.org/
+- https://scikit-learn.org/
 
 ## Contact
 Created by

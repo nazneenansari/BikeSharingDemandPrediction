@@ -36,7 +36,6 @@ Need to model the demand for shared bikes with the available independent variabl
 - Scikit-learn - version 0.24.2
 
 ## Acknowledgements
-Give credit here.
 - https://pandas.pydata.org/docs/
 - https://numpy.org/doc/stable/
 - https://seaborn.pydata.org/

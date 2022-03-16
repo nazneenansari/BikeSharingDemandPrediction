@@ -10,11 +10,16 @@
 
 ## General Information
 ### Problem Statement
-  A bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. In such an attempt, the company aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19. They have planned this to prepare themselves to cater to the people's needs once the situation gets better all around and stand out from other service providers and make huge profits.
-  The company want to understand the factors affecting the demand for these shared bikes in the American market and wants to know:
+  
+A bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. In such an attempt, the company aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19. They have planned this to prepare themselves to cater to the people's needs once the situation gets better all around and stand out from other service providers and make huge profits.
+
+The company want to understand the factors affecting the demand for these shared bikes in the American market and wants to know:
 
   - Which variables are significant in predicting the demand for shared bikes.
-  - How well those variables describe the bike demands 
+  - How well those variables describe the bike demands.
+
+### Business Goal:
+Need to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market
 
 ## Conclusions
 - The number of bike users has increased in 2019 as compared to 2018, so it can be anticipated that the business will grow over the years without any changes in the current settings.

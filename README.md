@@ -1,5 +1,5 @@
 # Bike Sharing Demand Prediction
- This analysis aims to give us an idea of using Multiple Linear Regression in a real business scenario. In this prediction analysis, we develop a basic understanding to evaluate the significance of parameters which impact demand.
+ This analysis aims to give us an idea of using Multiple Linear Regression in a real business scenario. In this prediction analysis, we develop a basic understanding to evaluate the significance of parameters which impact the demand or the business.
 
 
 ## Table of Contents
@@ -36,7 +36,6 @@ Need to model the demand for shared bikes with the available independent variabl
 - Scikit-learn - version 0.24.2
 
 ## Acknowledgements
-Give credit here.
 - https://pandas.pydata.org/docs/
 - https://numpy.org/doc/stable/
 - https://seaborn.pydata.org/
